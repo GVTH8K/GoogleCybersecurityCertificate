@@ -1,2 +1,2 @@
 # GoogleCybersecurityCertificate
-Google Cybersecurity Certificate Training Activities
+Google Cybersecurity Certificate Course Activities
