@@ -1,2 +1,2 @@
 # GoogleCybersecurityCertificate
-Google Cybersecurity Certificate Course Portfolio Activities
+Google Cybersecurity Certificate Course Activities
