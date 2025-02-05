@@ -1,14 +1,14 @@
 Cybersecurity Incident Report: 
 Network Traffic Analysis
 
-| Part 1: Provide a summary of the problem found in the DNS and ICMP traffic log                                                                                                                                                 |
+| **Part 1: Provide a summary of the problem found in the DNS and ICMP traffic log**                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | The traffic logs suggest that the DNS server is down or unreachable.                                                                                                                                                           |
 | This is evident in the traffic logs, where it can be seen that attempts to ping the server resulted in ICMP echo reply messages stating that UDP port 53 is unreachable.                                                       |
 | UDP port 53 is commonly used for DNS protocol traffic; therefore, it is highly likely that the DNS server is not responsive.                                                                                                   |
 |                                                                                                                                                                                                                                |
 
-| Part 2: Explain your analysis of the data and provide one solution to implement                                                                                                                                                |
+| **Part 2: Explain your analysis of the data and provide one solution to implement**                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | The reported incident occurred today at 1:23 p.m. Around this time, customers contacted the IT department, stating that they received an error stating “destination port unreachable” when attempting to access the website.   |
 | The issue is currently being investigated by the network security team in order to bring the service back up as soon as possible.                                                                                              |
