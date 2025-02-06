@@ -1,1 +1,27 @@
-# Enter information here
+Security Risk Assessment Report
+
+| **Part 1: Select up to three hardening tools and methods to implement**                                                                                                                               |  
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| One hardening tool that the organization can implement to address the identified vulnerabilities is multi-factor authentication.                                                                      |
+| This will ensure that users are required to use multiple means of proving their identity before they are allowed to access internal systems.                                                          |
+| The second hardening tool that the organization can implement to address the identified vulnerabilities is the creation and enforcement of strong password policies.                                  |
+| This will ensure that the policies enforce common best practices such as password length, acceptable characters, complexity requirements, and the rule to never share passwords.                      |
+| The third hardening tool that the organization can implement to address the identified vulnerabilities is the performance of regularly scheduled maintenance on the firewall.                         |
+| This entails checking and updating security configurations to ensure that there are no apparent gaps in protection and to stay ahead of potential threats.                                            |
+|                                                                                                                                                                                                       |
+
+| **Part 2: Explain your recommendations**                                                                                                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The enforcement of MFA within the organization will reduce the likelihood that an attacker will be successful in gaining access to the network via a brute-force or similar attack on user accounts.  |
+| MFA will also make it more difficult for users to share passwords since the second factor will always be required.                                                                                    |
+| The enforcement of MFA is especially important for users that possess administrator-level privileges on the network.                                                                                  |
+|                                                                                                                                                                                                       |
+| The creation and enforcement of password policies within the organization will ensure that attackers have an increasingly difficult time accessing the network.                                       |
+| This is due to the fact that users will no longer be able to choose weak or common passwords that make it easy for an attacker to compromise their account.                                           |
+| This policy should be enforced regularly across the organization to ensure that all user accounts are adequately protected.                                                                           |
+|                                                                                                                                                                                                       |
+| Firewall maintenance should be a regular practice to ensure that they are fully updated and that the appropriate rules are in place.                                                                  |
+| These rules should also be updated whenever there is a security event that takes place within the organization.                                                                                       |
+| This is especially important for events related to suspicious network traffic that was allowed into the network.                                                                                      |
+| Regular firewall maintenance can be used to protect against various types of attacks, including distributed denial-of-service, or DDoS, attacks.                                                      |
+|                                                                                                                                                                                                       |
