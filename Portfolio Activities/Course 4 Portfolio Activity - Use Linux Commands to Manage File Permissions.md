@@ -51,7 +51,7 @@ To comply with this, I referred to the file permissions that were gathered previ
 Based on these permissions, I was able to determine that “project_k.txt” file must have write access removed for other.
 The following image demonstrates how I used Linux commands to adjust the permission.
 
-IMAGE
+![LinuxPermission2](https://github.com/GVTH8K/GoogleCybersecurityCertificate/blob/main/Portfolio%20Activities/Images/LinuxPermission2.png?raw=true)
 
 The first two lines display the commands that were entered, while the lines following this demonstrate the output from the second command.
 The “chmod” command is used to update permissions for files and directories in Linux.
@@ -66,7 +66,7 @@ The research team at my organization recently archived “.project_x.txt”.
 They do not want anyone to have write access for this file, however the user and group should have read access.
 The following image demonstrates how I used Linux commands to update these permissions.
 
-IMAGE
+![LinuxPermission3](https://github.com/GVTH8K/GoogleCybersecurityCertificate/blob/main/Portfolio%20Activities/Images/LinuxPermission3.png?raw=true)
 
 The first two lines display the commands that were entered, while the lines following this demonstrate the output from the second command.
 It can be identified that “.project_x.txt” is a hidden file due to the fact that the name starts with a “.”.
@@ -81,7 +81,7 @@ My organization determined that only the researcher2 user should have access to 
 This means that no one other than researcher2 should have execute permissions, so the execute permission will need to be removed from group.
 The following image demonstrates how I used Linux commands to update these permissions.
 
-IMAGE
+![LinuxPermission4](https://github.com/GVTH8K/GoogleCybersecurityCertificate/blob/main/Portfolio%20Activities/Images/LinuxPermission4.png?raw=true)
 
 The first two lines display the commands that were entered, while the lines following this demonstrate the output from the second command.
 Since it was previously determined that group had execute permissions for this directory, I used the “chmod” command with the “g-x” argument to remove them.
