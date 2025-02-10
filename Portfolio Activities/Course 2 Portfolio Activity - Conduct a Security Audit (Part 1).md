@@ -18,6 +18,7 @@ The audit is meant to provide mitigation recommendations for vulnerabilities fou
 The audit team needs to document their findings, provide remediation plans and efforts, and communicate with stakeholders.
 
 Scope:
+
 In this scenario, the scope is defined as the entire security program at Botium Toys. This means all assets need to be assessed alongside internal processes and procedures.
 
 Botium Toys internal IT audit will assess the following:
@@ -36,25 +37,43 @@ Goals:
 In this scenario, the IT manager set the goals. He is expecting a report of the current security posture of the organization and recommendations for improving the security posture of the organization, as well as justification to hire additional cybersecurity personnel.
 
 The goals for Botium Toys’ internal IT audit are:
+
 ●	To adhere to the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF) 
+
 ●	Establish a better process for their systems to ensure they are compliant 
+
 ●	Fortify system controls
+
 ●	Implement the concept of least permissions when it comes to user credential management 
+
 ●	Establish their policies and procedures, which includes their playbooks 
+
 ●	Ensure they are meeting compliance requirements 
+
 
 Controls Assessment:
 Assets managed by the IT Department include: 
+
 ●	On-premises equipment for in-office business needs  
+
 ●	Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.
+
 ●	Management of systems, software, and services: accounting, telecommunication, database, security, ecommerce, and inventory management
+
 ●	Internet access
+
 ●	Internal network
+
 ●	Vendor access management
+
 ●	Data center hosting services  
+
 ●	Data retention and storage
+
 ●	Badge readers
+
 ●	Legacy system maintenance: end-of-life systems that require human monitoring 
+
 
 Administrative Controls
 | **Control Name**            | **Control type and explanation**                                                                                                                                                                                                                                                                                                                                                                            | **Needs to be implemented (X)** | **Priority** |
