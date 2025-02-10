@@ -86,6 +86,7 @@ Administrative Controls:
 | Access control policies     | Preventative; increase confidentiality and integrity of data                                                                                                                                                                                                                                                                                                                                                | X                               | High         |
 | Account management policies | Preventative; reduce attack surface and limit overall impact from disgruntled/former employees                                                                                                                                                                                                                                                                                                              | X                               | High/Medium  |
 | Separation of duties        | Preventative; ensure no one has so much access that they can abuse the system for personal gain                                                                                                                                                                                                                                                                                                             | X                               | High         |
+
 Technical Controls:
 | **Control Name**                                 | **Control type and explanation**                                                                                            | **Needs to be implemented (X)** | **Priority** |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------ |
@@ -96,6 +97,7 @@ Technical Controls:
 | Password management system                       | Corrective; password recovery, reset, lock out notifications                                                                | X                               | High/Medium  |
 | Antivirus (AV) software                          | Corrective; detect and quarantine known threats                                                                             | X                               | High         |
 | Manual monitoring, maintenance, and intervention | Preventative/corrective; required for legacy systems to identify and mitigate potential threats, risks, and vulnerabilities | X                               | High         |
+
 
 Physical Controls:
 | **Control Name**                                                   | **Control type and explanation**                                                                                                                  | **Needs to be implemented (X)**      | **Priority** |
