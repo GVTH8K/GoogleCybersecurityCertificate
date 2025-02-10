@@ -50,7 +50,6 @@ The goals for Botium Toys’ internal IT audit are:
 
 ●	Ensure they are meeting compliance requirements 
 
-
 Controls Assessment:
 Assets managed by the IT Department include: 
 
@@ -74,7 +73,6 @@ Assets managed by the IT Department include:
 
 ●	Legacy system maintenance: end-of-life systems that require human monitoring 
 
-
 Administrative Controls
 | **Control Name**            | **Control type and explanation**                                                                                                                                                                                                                                                                                                                                                                            | **Needs to be implemented (X)** | **Priority** |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------ |
@@ -84,7 +82,6 @@ Administrative Controls
 | Access control policies     | Preventative; increase confidentiality and integrity of data                                                                                                                                                                                                                                                                                                                                                | X                               | High         |
 | Account management policies | Preventative; reduce attack surface and limit overall impact from disgruntled/former employees                                                                                                                                                                                                                                                                                                              | X                               | High/Medium  |
 | Separation of duties        | Preventative; ensure no one has so much access that they can abuse the system for personal gain                                                                                                                                                                                                                                                                                                             | X                               | High         |
-
 Technical Controls
 | **Control Name**                                 | **Control type and explanation**                                                                                            | **Needs to be implemented (X)** | **Priority** |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------ |
