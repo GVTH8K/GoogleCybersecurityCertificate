@@ -97,7 +97,7 @@ Technical Controls:
 | Antivirus (AV) software                          | Corrective; detect and quarantine known threats                                                                             | X                               | High         |
 | Manual monitoring, maintenance, and intervention | Preventative/corrective; required for legacy systems to identify and mitigate potential threats, risks, and vulnerabilities | X                               | High         |
 
-Physical Controls
+Physical Controls:
 | **Control Name**                                                   | **Control type and explanation**                                                                                                                  | **Needs to be implemented (X)**      | **Priority** |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------ |
 | Time-controlled safe                                               | Deterrent; reduce attack surface/impact of physical threats                                                                                       | X                                    | Medium/Low   |
