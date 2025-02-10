@@ -1,4 +1,5 @@
 Scenario:
+
 Botium Toys is a small U.S. business that develops and sells toys.
 The business has a single physical location. However, its online presence has grown, attracting customers in the U.S. and abroad.
 Their information technology (IT) department is under increasing pressure to support their online market worldwide.
@@ -13,6 +14,7 @@ The goal of the audit is to provide an overview of the risks the company might e
 Your task is to review the IT manager’s scope, goals, and risk assessment. Then, perform an internal audit to complete a controls assessment and compliance checklist.
 
 Summary:
+
 Perform an audit of Botium Toys’ cybersecurity program. The audit needs to align current business practices with industry standards and best practices.
 The audit is meant to provide mitigation recommendations for vulnerabilities found that are classified as “high risk,” and present an overall strategy for improving the security posture of the organization.
 The audit team needs to document their findings, provide remediation plans and efforts, and communicate with stakeholders.
@@ -34,6 +36,7 @@ Botium Toys internal IT audit will assess the following:
 ●	Ensure current technology is accounted for. Both hardware and system access.
   
 Goals:
+
 In this scenario, the IT manager set the goals. He is expecting a report of the current security posture of the organization and recommendations for improving the security posture of the organization, as well as justification to hire additional cybersecurity personnel.
 
 The goals for Botium Toys’ internal IT audit are:
@@ -51,6 +54,7 @@ The goals for Botium Toys’ internal IT audit are:
 ●	Ensure they are meeting compliance requirements 
 
 Controls Assessment:
+
 Assets managed by the IT Department include: 
 
 ●	On-premises equipment for in-office business needs  
