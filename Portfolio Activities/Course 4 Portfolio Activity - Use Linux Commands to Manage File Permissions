@@ -11,7 +11,7 @@ The completion of this task is outlined in the sections below.
 Check File and Directory Details:
 The following image demonstrates how I used Linux commands to determine the existing permissions for a specific directory within the file system.
 
-![](images/https://github.com/GVTH8K/GoogleCybersecurityCertificate/blob/main/Portfolio%20Activities/Images/LinuxPermission1.png?raw=true)
+![https://github.com/GVTH8K/GoogleCybersecurityCertificate/blob/main/Portfolio%20Activities/Images/LinuxPermission1.png?raw=true](images/LinuxPermission1.png?raw=true)
 
 The first line in this image displays the command that I entered to check the contents and permissions of the “projects” directory and any files within it.
 The lines that follow this command represent the output.
