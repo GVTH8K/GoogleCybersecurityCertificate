@@ -21,83 +21,83 @@ Please review the following information regarding the Botium Toys internal audit
 
 Scope:
 
-•	The following items are considered in scope:
+*	The following items are considered in scope:
 
-  o	Accounting
+    -	Accounting
   
-  o	Endpoint Detection
+    -	Endpoint Detection
   
-  o	Firewalls
+    -	Firewalls
   
-  o	Intrusion Detection Systems
+    -	Intrusion Detection Systems
   
-  o	Security Information and Event Management System
+    -	Security Information and Event Management System
   
-•	The systems will be evaluated for:
+*	The systems will be evaluated for:
 
-  o	Current user permissions
+    -	Current user permissions
   
-  o	Current implemented controls
+    -	Current implemented controls
   
-  o	Current procedures and protocols
+    -	Current procedures and protocols
   
-•	This audit will ensure that current user permissions, controls, procedures, and protocols in place align with the requirements of GDPR and PCI DSS.
+*	This audit will ensure that current user permissions, controls, procedures, and protocols in place align with the requirements of GDPR and PCI DSS.
 
-•	This audit will ensure that current technology is accounted for, including both hardware and system access.
+*	This audit will ensure that current technology is accounted for, including both hardware and system access.
 
 Goals:
 
-•	Adhere to the NIST Cybersecurity Framework.
+*	Adhere to the NIST Cybersecurity Framework.
 
-•	Establish a better process for systems to ensure compliance.
+*	Establish a better process for systems to ensure compliance.
 
-•	Fortify system controls.
+*	Fortify system controls.
 
-•	Adopt the concept of least privilege when it comes to user credential management.
+*	Adopt the concept of least privilege when it comes to user credential management.
 
-•	Establish the required policies and procedures, including playbooks.
+*	Establish the required policies and procedures, including playbooks.
 
-•	Ensure that compliance requirements are being met by the organization.
+*	Ensure that compliance requirements are being met by the organization.
 
 Critical findings (must be addressed immediately):
 
-•	Several controls need to be developed and implemented to meet audit goals, including:
+*	Several controls need to be developed and implemented to meet audit goals, including:
 
-  o	Least Privilege and Separation of Duties
+    -	Least Privilege and Separation of Duties
   
-  o	Disaster Recovery Plans
+    -	Disaster Recovery Plans
   
-  o	Policies regarding passwords, access control, and account management
+    -	Policies regarding passwords, access control, and account management
   
-  o	Implementation of a password management system
+    -	Implementation of a password management system
   
-  o	Encryption to ensure that website transactions are secure
+    -	Encryption to ensure that website transactions are secure
   
-  o	Intrusion Detection Systems
+    -	Intrusion Detection Systems
   
-  o	Backup Plans
+    -	Backup Plans
   
-  o	AV software
+    -	AV software
   
-  o	CCTV cameras
+    -	CCTV cameras
   
-  o	Locks
+    -	Locks
   
-  o	Manual monitoring, maintenance, and intervention for legacy systems
+    -	Manual monitoring, maintenance, and intervention for legacy systems
   
-  o	Fire detection and prevention systems
+    -	Fire detection and prevention systems
 
 Findings (should be addressed, but no immediate need):
 
-•	The following controls should be implemented when possible:
+*	The following controls should be implemented when possible:
 
-  o	Time-controlled safe
+    -	Time-controlled safe
   
-  o	Adequate lighting
+    -	Adequate lighting
   
-  o	Locking cabinets
+    -	Locking cabinets
   
-  o	Signage indicating service provider for the alarm system
+    -	Signage indicating service provider for the alarm system
 
 Summary/Recommendations:
 
