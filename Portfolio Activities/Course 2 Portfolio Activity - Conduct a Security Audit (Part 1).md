@@ -13,11 +13,15 @@ The IT manager starts by implementing the National Institute of Standards and Te
 The goal of the audit is to provide an overview of the risks the company might experience due to the current state of their security posture. The IT manager wants to use the audit findings as evidence to obtain approval to expand his department.
 Your task is to review the IT manager’s scope, goals, and risk assessment. Then, perform an internal audit to complete a controls assessment and compliance checklist.
 
+&nbsp;
+
 Summary:
 
 Perform an audit of Botium Toys’ cybersecurity program. The audit needs to align current business practices with industry standards and best practices.
 The audit is meant to provide mitigation recommendations for vulnerabilities found that are classified as “high risk,” and present an overall strategy for improving the security posture of the organization.
 The audit team needs to document their findings, provide remediation plans and efforts, and communicate with stakeholders.
+
+&nbsp;
 
 Scope:
 
@@ -35,6 +39,8 @@ Botium Toys internal IT audit will assess the following:
 
 *	Ensure current technology is accounted for. Both hardware and system access.
   
+&nbsp;
+
 Goals:
 
 In this scenario, the IT manager set the goals. He is expecting a report of the current security posture of the organization and recommendations for improving the security posture of the organization, as well as justification to hire additional cybersecurity personnel.
@@ -52,6 +58,8 @@ The goals for Botium Toys’ internal IT audit are:
 *	Establish their policies and procedures, which includes their playbooks 
 
 *	Ensure they are meeting compliance requirements 
+
+&nbsp;
 
 Controls Assessment:
 
@@ -77,6 +85,8 @@ Assets managed by the IT Department include:
 
 *	Legacy system maintenance: end-of-life systems that require human monitoring 
 
+&nbsp;
+
 Administrative Controls:
 | **Control Name**            | **Control type and explanation**                                                                                                                                                                                                                                                                                                                                                                            | **Needs to be implemented (X)** | **Priority** |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------ |
@@ -86,6 +96,8 @@ Administrative Controls:
 | Access control policies     | Preventative; increase confidentiality and integrity of data                                                                                                                                                                                                                                                                                                                                                | X                               | High         |
 | Account management policies | Preventative; reduce attack surface and limit overall impact from disgruntled/former employees                                                                                                                                                                                                                                                                                                              | X                               | High/Medium  |
 | Separation of duties        | Preventative; ensure no one has so much access that they can abuse the system for personal gain                                                                                                                                                                                                                                                                                                             | X                               | High         |
+
+&nbsp;
 
 Technical Controls:
 | **Control Name**                                 | **Control type and explanation**                                                                                            | **Needs to be implemented (X)** | **Priority** |
@@ -99,6 +111,8 @@ Technical Controls:
 | Manual monitoring, maintenance, and intervention | Preventative/corrective; required for legacy systems to identify and mitigate potential threats, risks, and vulnerabilities | X                               | High         |
 
 
+&nbsp;
+
 Physical Controls:
 | **Control Name**                                                   | **Control type and explanation**                                                                                                                  | **Needs to be implemented (X)**      | **Priority** |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------ |
@@ -109,6 +123,8 @@ Physical Controls:
 | Signage indicating alarm service provider                          | Deterrent; makes the likelihood of a successful attack seem low                                                                                   | X                                    | Low          |
 | Locks                                                              | Preventative; physical and digital assets are more secure                                                                                         | X                                    | High         |
 | Fire detection and prevention (fire alarm, sprinkler system, etc.) | Detective/Preventative; detect fire in the toy store’s physical location to prevent damage to inventory, servers, etc.                            | X                                    | Medium/Low   |
+
+&nbsp;
 
 Compliance Checklist:
 
