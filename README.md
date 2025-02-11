@@ -9,7 +9,7 @@ Google Cybersecurity Certificate Course Activities
 
 &nbsp;
 
-* [Portfolio Activites](https://github.com/GVTH8K/GoogleCybersecurityCertificate/tree/main/Portfolio%20Activities)
+* [Portfolio Activities](https://github.com/GVTH8K/GoogleCybersecurityCertificate/tree/main/Portfolio%20Activities)
   - [Course 1 Portfolio Activity - Draft a Professional Statement](https://github.com/GVTH8K/GoogleCybersecurityCertificate/blob/main/Portfolio%20Activities/Course%201%20Portfolio%20Activity%20-%20Draft%20a%20Professional%20Statement.md)
   - [Course 2 Portfolio Activity - Conduct a Security Audit (Part 1)](https://github.com/GVTH8K/GoogleCybersecurityCertificate/blob/main/Portfolio%20Activities/Course%202%20Portfolio%20Activity%20-%20Conduct%20a%20Security%20Audit%20(Part%201).md)
   - [Course 2 Portfolio Activity - Conduct a Security Audit (Part 2)](https://github.com/GVTH8K/GoogleCybersecurityCertificate/blob/main/Portfolio%20Activities/Course%202%20Portfolio%20Activity%20-%20Conduct%20a%20Security%20Audit%20(Part%202).md)
