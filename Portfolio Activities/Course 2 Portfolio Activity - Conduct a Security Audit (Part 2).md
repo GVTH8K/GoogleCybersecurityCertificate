@@ -8,8 +8,11 @@ Your task is to clearly and concisely communicate your findings and recommendati
 Stakeholder Memorandum:
 
 TO: IT Manager, Stakeholders
+
 FROM: Joshua Witt
+
 DATE: 01/23/2025
+
 SUBJECT: Internal IT Audit Findings and Recommendations
 
 Dear Colleagues,
