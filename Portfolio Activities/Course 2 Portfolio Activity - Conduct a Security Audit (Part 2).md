@@ -23,7 +23,7 @@ Scope:
 
 •	The following items are considered in scope:
 
- * o	Accounting
+  o	Accounting
   
   o	Endpoint Detection
   
