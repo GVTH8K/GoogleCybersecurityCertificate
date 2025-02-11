@@ -5,6 +5,8 @@ Then, based on the company’s current goals and level of risk, she requested th
 
 Your task is to clearly and concisely communicate your findings and recommendations to the IT manager and other stakeholders, so they can implement the necessary controls and create appropriate documentation, processes, and procedures to ensure business continuity, the safety of critical assets, and compliance.
 
+&nbsp;
+
 Stakeholder Memorandum:
 
 TO: IT Manager, Stakeholders
@@ -18,6 +20,8 @@ SUBJECT: Internal IT Audit Findings and Recommendations
 Dear Colleagues,
 
 Please review the following information regarding the Botium Toys internal audit scope, goals, critical findings, summary and recommendations.
+
+&nbsp;
 
 Scope:
 
@@ -45,6 +49,8 @@ Scope:
 
 *	This audit will ensure that current technology is accounted for, including both hardware and system access.
 
+&nbsp;
+
 Goals:
 
 *	Adhere to the NIST Cybersecurity Framework.
@@ -58,6 +64,8 @@ Goals:
 *	Establish the required policies and procedures, including playbooks.
 
 *	Ensure that compliance requirements are being met by the organization.
+
+&nbsp;
 
 Critical findings (must be addressed immediately):
 
@@ -87,6 +95,8 @@ Critical findings (must be addressed immediately):
   
     -	Fire detection and prevention systems
 
+&nbsp;
+
 Findings (should be addressed, but no immediate need):
 
 *	The following controls should be implemented when possible:
@@ -98,6 +108,8 @@ Findings (should be addressed, but no immediate need):
     -	Locking cabinets
   
     -	Signage indicating service provider for the alarm system
+
+&nbsp;
 
 Summary/Recommendations:
 
