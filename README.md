@@ -1,5 +1,4 @@
-# Google Cybersecurity Certificate
-Google Cybersecurity Certificate Course Activities
+# Google Cybersecurity Certificate Course Activities
 
 * [Activities](https://github.com/GVTH8K/GoogleCybersecurityCertificate/tree/main/Activites)
   - [Course 3 Activity - Analysis of Network Hardening](https://github.com/GVTH8K/GoogleCybersecurityCertificate/blob/main/Activites/Course%203%20Activity%20-%20Analysis%20of%20Network%20Hardening.md)
