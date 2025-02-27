@@ -1,4 +1,4 @@
-Apply filters to SQL queries
+Apply Filters to SQL Queries
 
 Project Description:
 
