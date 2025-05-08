@@ -10,7 +10,6 @@
 
 &nbsp;
 
-
 | ------------- | ------------------------- |
 | Categories    | Access desgination        |
 | None          | No relationship           |
@@ -18,4 +17,3 @@
 | Confidential  | Limited to specific users |
 | Restricted    | Need-to-know              |
 | Internal-only | Users on-premises         |
-|               |                           |
