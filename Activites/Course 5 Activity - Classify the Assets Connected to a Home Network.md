@@ -10,12 +10,12 @@
 
 &nbsp;
 
-|               |                                              |
-| ------------- | -------------------------------------------- |
-| Categories    | Access desgination                           |
-| None          | No relationship                              |
-| Restricted    |  | Public        | Anyone                    |
-| Internal-only |  | Confidential  | Limited to specific users |
-| Internal-only |  | Restricted    | Need-to-know              |
-| Internal-only |  | Internal-only | Users on-premises         |
-| Confidential  |  |               |                           |
+|               |                           |
+| ------------- | ------------------------- |
+| Categories    | Access desgination        |
+| None          | No relationship           |
+| Public        | Anyone                    |
+| Confidential  | Limited to specific users |
+| Restricted    | Need-to-know              |
+| Internal-only | Users on-premises         |
+|               |                           |
