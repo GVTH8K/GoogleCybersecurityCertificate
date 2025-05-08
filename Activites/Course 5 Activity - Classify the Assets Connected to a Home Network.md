@@ -11,8 +11,8 @@
 &nbsp;
 
 |               |                           |
-| Categories    | Access desgination        |
 | ------------- | ------------------------- |
+| Categories    | Access desgination        |
 | None          | No relationship           |
 | Public        | Anyone                    |
 | Confidential  | Limited to specific users |
