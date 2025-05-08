@@ -10,8 +10,7 @@
 
 &nbsp;
 
-
-
+|               |                           |
 | ------------- | ------------------------- |
 | Categories    | Access desgination        |
 | None          | No relationship           |
