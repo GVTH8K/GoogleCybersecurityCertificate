@@ -10,9 +10,12 @@
 
 &nbsp;
 
+|               |                           |
+| ------------- | ------------------------- |
 | Categories    | Access desgination        |
 | None          | No relationship           |
 | Public        | Anyone                    |
 | Confidential  | Limited to specific users |
 | Restricted    | Need-to-know              |
 | Internal-only | Users on-premises         |
+|               |                           |
