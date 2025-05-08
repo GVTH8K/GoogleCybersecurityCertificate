@@ -9,7 +9,8 @@
 | 7 | Raspberry Pi     | Continuous     | Homeowner                       | On-premises         | Connects to my home network.                                                                        | Confidential  |
 
 &nbsp;
-| ------------- | ------------------------- |
+
+|               |                           |
 | Categories    | Access desgination        |
 | ------------- | ------------------------- |
 | None          | No relationship           |
