@@ -18,4 +18,3 @@
 | Confidential  | Limited to specific users |
 | Restricted    | Need-to-know              |
 | Internal-only | Users on-premises         |
-|               |                           |
