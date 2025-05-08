@@ -7,3 +7,15 @@
 | 5 | Guest smartphone | Occasional     | Friend                          | On and Off-premises | Connects to my home network.                                                                        | Internal-only |
 | 6 | Gaming Console   | Occasional     | Homeowner                       | On-premises         | Connects to my home network.                                                                        | Internal-only |
 | 7 | Raspberry Pi     | Continuous     | Homeowner                       | On-premises         | Connects to my home network.                                                                        | Confidential  |
+
+&nbsp;
+
+|               |                                              |
+| ------------- | -------------------------------------------- |
+| Categories    | Access desgination                           |
+| None          | No relationship                              |
+| Restricted    |  | Public        | Anyone                    |
+| Internal-only |  | Confidential  | Limited to specific users |
+| Internal-only |  | Restricted    | Need-to-know              |
+| Internal-only |  | Internal-only | Users on-premises         |
+| Confidential  |  |               |                           |
