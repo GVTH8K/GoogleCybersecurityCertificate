@@ -5,6 +5,7 @@
   - [Course 3 Activity - Analyze Network Attacks](https://github.com/GVTH8K/GoogleCybersecurityCertificate/blob/main/Activites/Course%203%20Activity%20-%20Analyze%20Network%20Attacks.md)
   - [Course 3 Activity - Analyze Network Layer Communication](https://github.com/GVTH8K/GoogleCybersecurityCertificate/blob/main/Activites/Course%203%20Activity%20-%20Analyze%20Network%20Layer%20Communication.md)
   - [Course 3 Activity - Apply OS Hardening Techniques](https://github.com/GVTH8K/GoogleCybersecurityCertificate/blob/main/Activites/Course%203%20Activity%20-%20Apply%20OS%20Hardening%20Techniques.md)
+  - [Course 5 Activity - Classify the Assets Connected to a Home Network](https://github.com/GVTH8K/GoogleCybersecurityCertificate/blob/d8756deec1805b25d5d68bcca86b546de23b9f95/Activites/Course%205%20Activity%20-%20Classify%20the%20Assets%20Connected%20to%20a%20Home%20Network.md)
 
 &nbsp;
 
